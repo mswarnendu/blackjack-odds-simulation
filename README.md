@@ -17,10 +17,10 @@ The program repeatedly runs games with fixed dealer and player strategies, then 
 
 ## Example Output
 
-EV: -0.072702
-Probability of Winning: 40.7884%
-Probability of Losing: 48.0586%
-Probability of Pushes: 11.153%
+- EV: -0.072702
+- Probability of Winning: 40.7884%
+- Probability of Losing: 48.0586%
+- Probability of Pushes: 11.153%
 
 
 
