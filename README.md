@@ -8,6 +8,12 @@ The program repeatedly runs games with fixed dealer and player strategies, then 
 - loss probability
 - push probability
 
+## Before Running
+
+Type the command below into a new terminal before running this script:
+
+pip install matplotlib
+
 ## Environment Conditions
 
 - Cards are randomly generated between 1-10
